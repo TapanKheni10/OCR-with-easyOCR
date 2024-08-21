@@ -1,0 +1,4 @@
+easyocr
+matplotlib
+opencv-python-headless
+numpy==1.26.0

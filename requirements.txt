@@ -1,4 +1,4 @@
 easyocr
 matplotlib
-opencv-python-headless
+opencv-python
 numpy==1.26.0

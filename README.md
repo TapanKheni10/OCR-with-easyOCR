@@ -40,7 +40,6 @@ Follow these steps to get started with the project:
    ```bash
    python main.py
    ```
-   This command will start the Streamlit app.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
